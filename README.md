@@ -1,0 +1,1 @@
+Project to document solving problems on https://projecteuler.net/
